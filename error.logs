@@ -35,3 +35,5 @@
 [E 20180416 17:30:58 j_filter:70] error:no sn and no mac,id is :188
 [E 20180416 17:30:58 j_filter:70] error:no sn and no mac,id is :189
 [I 20180416 17:30:58 j_filter:84] Inset data into table ConnectionInfo sucess!
+[W 20180703 11:51:09 base:170] Not Found: /favicon.ico
+[W 20180703 11:54:11 base:170] Not Found: /favicon.ico
